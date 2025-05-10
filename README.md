@@ -15,9 +15,9 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - 📫 Reach out to me at: <a href="colquejose53@gmail.com">colquejose53@gmail.com</a>
 
 ## Education
-<h4> Tecnico en Desarrollo de Software - Universidad UPATECO - (finalizado)</h4>
-<h4> Tecnico en Software - Universidad UNSA - (-)</h4>
-<h4> Tecnico en Informatica - Terciario La Normal - (finalizado)</h4>
+- Universidad UPATECO: Tecnico en Desarrollo de Software - (finalizado)
+- Universidad UNSA: Tecnico en Software - (-)
+- Terciario La Normal: Tecnico en Informatica - (finalizado)
 
 ## My Skills Include
 
