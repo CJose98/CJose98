@@ -4,10 +4,10 @@
 
 ***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+I'm a software developer. I'm expanding my knowledge in front-end and back-end development, and I work as a freelance software developer. I'm passionate about learning and creating something new, productive, innovative, and creative.
 - 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
+  - Hosting. DNS. VPS
+  - ingles
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
